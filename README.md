@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Akhand Pratap Singh – Full Stack Developer | Open Source Enthusiast
+###### 👋 Hi, I'm Akhand Pratap Singh – Full Stack Developer | Open Source Enthusiast
 Welcome to my GitHub portfolio! I'm passionate about building robust, scalable web applications and exploring the latest in modern tech stacks. This space is where I share my personal projects, contributions to open-source, and experiments with new technologies.
 
  
